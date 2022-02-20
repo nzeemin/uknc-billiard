@@ -1,0 +1,13 @@
+/x-*
+/.vscode
+/*.OBJ
+/*.LST
+/*.MAP
+/*.SAV
+/*.log
+/BILLIA.MAC
+/VERSIO.MAC
+/SpriteRotate/bin
+/SpriteRotate/obj
+/SpriteRotate/*.suo
+/SpriteRotate/.vs
